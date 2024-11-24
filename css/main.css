@@ -1280,7 +1280,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #1afa2e;
+    background: #adf279;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
@@ -2765,32 +2765,16 @@ body {
   background-size: cover;
   background-position: center;
 }
-.main-inner > .sub-menu,
-.main-inner > .post-block,
-.main-inner > .tabs-comment,
-.main-inner > .comments,
-.main-inner > .pagination {
-  background: rgba(245,245,245,0.42);
-}
-body {
-  color: #000;
-}
-.posts-expand .post-title-link {
-  color: #000;
-}
-.posts-expand .post-meta-container {
-  color: #800;
-}
 .sidebar {
-  opacity: 0.7;
+  opacity: 0.85;
 }
 .header-inner {
-  background: rgba(255,255,255,0.7);
+  background: rgba(255,255,255,0.85);
 }
 .popup {
-  opacity: 0.5;
+  opacity: 0.85;
 }
 .main-inner {
-  background-color: rgba(255,255,255,0);
+  background-color: rgba(255,255,255,0.85);
   padding: 0px 40px 40px 40px;
 }
