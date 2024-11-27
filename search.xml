@@ -38,7 +38,7 @@
 <h1 id="Excel表格格式化"><a href="#Excel表格格式化" class="headerlink" title="Excel表格格式化"></a>Excel表格格式化</h1><p>（表格美化放在最后一步操作，避免数据结构发生变化）</p>
 <h2 id="1、字体、对齐、行高、列宽、边框、底纹"><a href="#1、字体、对齐、行高、列宽、边框、底纹" class="headerlink" title="1、字体、对齐、行高、列宽、边框、底纹"></a>1、字体、对齐、行高、列宽、边框、底纹</h2><h2 id="2、单元格样式"><a href="#2、单元格样式" class="headerlink" title="2、单元格样式"></a>2、单元格样式</h2><h2 id="3、套用表格格式并转换位普通区域"><a href="#3、套用表格格式并转换位普通区域" class="headerlink" title="3、套用表格格式并转换位普通区域"></a>3、套用表格格式并转换位普通区域</h2><img src="/2024/11/22/Excel/Excel2/image-20241126120557970.png" class="" title="image-20241126120557970">
 <h1 id="Excel公式基础"><a href="#Excel公式基础" class="headerlink" title="Excel公式基础"></a>Excel公式基础</h1><h2 id="1、公式的格式（写法）’’计算’’"><a href="#1、公式的格式（写法）’’计算’’" class="headerlink" title="1、公式的格式（写法）’’计算’’"></a>1、公式的格式（写法）’’计算’’</h2><h2 id="2、公式中的运算符"><a href="#2、公式中的运算符" class="headerlink" title="2、公式中的运算符"></a>2、公式中的运算符</h2><h2 id="3、函数的定义与函数的写法"><a href="#3、函数的定义与函数的写法" class="headerlink" title="3、函数的定义与函数的写法"></a>3、函数的定义与函数的写法</h2><img src="/2024/11/22/Excel/Excel2/image-20241126171657044.png" class="" title="image-20241126171657044">
-]]></content>
+<h1 id="Excel单元格的引用"><a href="#Excel单元格的引用" class="headerlink" title="Excel单元格的引用"></a>Excel单元格的引用</h1><h2 id="1、相对引用"><a href="#1、相对引用" class="headerlink" title="1、相对引用"></a>1、相对引用</h2><h2 id="2、绝对引用"><a href="#2、绝对引用" class="headerlink" title="2、绝对引用"></a>2、绝对引用</h2><h2 id="3、混合引用"><a href="#3、混合引用" class="headerlink" title="3、混合引用"></a>3、混合引用</h2>]]></content>
       <categories>
         <category>学习</category>
       </categories>
